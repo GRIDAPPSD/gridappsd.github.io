@@ -20,7 +20,7 @@ cd your-repo
 
 ### 2. Install Requirements
 
-Install MkDocs using pip:
+Install requirements using pip:
 
 ```bash
 pip install -r requirements.txt

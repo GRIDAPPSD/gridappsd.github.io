@@ -1,3 +1,6 @@
 site_name: GridAPPS-D Reference Site
 theme:
   name: material
+nav:
+  Home: index.md
+  Coding Standards: python-code-standards/index.md

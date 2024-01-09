@@ -18,12 +18,12 @@ git clone https://github.com/GRIDAPPSD/gridappsd.github.io.git
 cd your-repo
 ```
 
-### 2. Install MkDocs
+### 2. Install Requirements
 
 Install MkDocs using pip:
 
 ```bash
-pip install mkdocs
+pip install -r requirements.txt
 ```
 
 ### 3. Preview the Documentation Locally

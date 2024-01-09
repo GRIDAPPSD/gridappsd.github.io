@@ -16,11 +16,11 @@ on:
       - 'requirements.txt'
       - 'mkdocs.yml'
 
-# These permissions are required for it to work
-permissions:
-  contents: read
-  pages: write
-  id-token: wite
+# # These permissions are required for it to work
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: wite
 
 # Makes sure only one workflow runs at a time.
 concurrency:

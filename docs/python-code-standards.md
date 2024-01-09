@@ -64,3 +64,4 @@ patterns = [
     "dist/**",
     "docs/**"
 ]
+```

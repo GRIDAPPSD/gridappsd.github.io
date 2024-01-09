@@ -1,4 +1,4 @@
-# Python Code Formatting Options
+# Python Code Formatting
 
 In Python, adhering to consistent code formatting standards is crucial for readability and maintainability.
 `yapf` is one of the tools that helps automate this process while following PEP8 guidelines.
